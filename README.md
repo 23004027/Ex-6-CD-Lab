@@ -1,7 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# NAME:Yadhav G P
-# REG.NO:212223230247
+# NAME:V.Vignesh
+# REG.NO:212223230241
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
